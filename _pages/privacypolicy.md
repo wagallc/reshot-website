@@ -6,170 +6,152 @@ include_in_header: false
 
 # Privacy Policy
 
-By using our Services, you are hereby consenting to collection of your information by us. The information in some cases may include Personal Information and Sensitive Personal Information too. You will be required to click on the box below, confirming your acceptance of this Privacy Policy.
+**Introduction**
+Reshot (hereinafter referred to as “Reshot”, “we” or “us”) takes your privacy very seriously, and we are committed to protecting and respecting your privacy. That value powers all of the decisions we make, including how we collect, use, share, store and respect your personal data. Please read this Privacy Policy carefully so that you can make appropriate decisions on an informed and freely given basis.
 
-### **1.** **Legal basis for collecting information**
+**Children Under 16**
+WE DO NOT knowingly collect or store any personally identifiable information from children under 16. If parents believe that we have unintentionally collected their children’s’ personal information, please contact us to delay the information via appropriate means as set forth in “Contact Us” Section of this Privacy Policy.
 
-We collect certain Information because it is necessary for us to be able to provide and administer the Service and its features. We also collect certain Information to comply with specified statutory requirements.
+**Scope**
+This Privacy Policy applies to users of our services anywhere in the world, including users of our applications, official websites or other services (“the Service”), unless covered by a separate privacy policy or additional terms of this policy. It is important that you read this Privacy Policy with any other privacy policy or fair processing policy we may provide on specific occasions, so that you are fully aware of when, why and how we collect and process your personal data. This Privacy Policy supplements other notices and privacy policies and is not intended to override them.
+By using our Apps or accepting our services, including without limitation accessing our applications, you acknowledge the terms of this Privacy Policy. If you object to anything described in this Privacy Policy, please do not use our websites or our Apps.
+We may amend this Privacy Policy from time to time, and we will notify you about such changes by posting the amended version on our websites or application. Please check back periodically to ensure that you are aware of any changes, and your continued use of our services will be deemed your acceptance of these changes.
+Unless otherwise prescribed in the Privacy Policy, the terms in the Privacy Policy shall have the same implications with the terms in the Terms of Service.
 
-Such data is processed based on your consent. To the extent that processing is carried out on the basis of consent, it is for you to give such a consent and you may at any time, wholly or partly, withdraw your consent. Even if you have consented to our using your information for a specific purpose, you will have the right to change your mind at any time, but this will not affect any processing that has already taken place.
+**PLEASE NOTE THAT, this Privacy Policy does not apply to the following cases:**
 
-Please note that for certain Services it is essential for us to access and use certain Information and if you refuse to provide us the consent, it may result in a suspension of your account.
+- Any information or personal data collected by any third-party services, products, applications, websites and/or platforms, such as Instagram, regardless whether they are accessible through our applications and/or websites; or
+- Any information or personal data collected by other companies or institutions that provide advertising services through our applications and/or websites.
 
-### **2.** Information automatically collected
+In such circumstances, you should refer directly to privacy policies for the relevant third party.
 
-There is some information like your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our platform. This information may be used to connect your computer to the Internet. Other information collected automatically could be a login, e-mail address, password, computer and connection information such as browser plug-in types and versions and time zone setting, operating systems and platforms, purchase history, (we sometimes aggregate with similar information from other Users), the full Uniform Resource Locator (URL) clickstream to, through and from our Website that may include date and time; cookie number; parts of the site you viewed or searched for; and the phone number you used to call our Customer Services. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects) or similar data on certain parts of our Website for fraud prevention and other purposes. During your visits, we may use software tools such as JavaScript to measure and collect session information including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+**Data Controller and Data Processor**
+Reshot is both the data controller and data processor, who determine the purposes and methods of the data processing with respect to your personal data collected by us, and responsible for the data processing with respect to your use of our services. You can contact us in the following ways:
+Email address: **[abc@aiwaga.com](mailto:abc@aiwaga.com)**
 
-We automatically collect certain information when you visit, use or navigate the platform. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about who and when you use our and other technical information. This information is primarily needed to maintain the security and operation of our platform, and for our internal analytics and reporting purposes.
+**Personal Data We Collect**
+Personal data, or personal information, means any information that identifies (whether directly or indirectly) a particular natural person, such as the name, email address, phone number, the identification number, location data, or an online identifier, etc. It does not include data where the identity has been removed (anonymous data).
 
-### **3. How and Why We Collect Your Information**
+**We may collect your personal data as follows:**
 
-We collect information through technology, such as cookies and web beacons when you use our Services. The information we learn from customers helps us personalize and continually improve your experience of the Services as set out below:
+- Contact Details**. If you contact us and provide us with your personal information, we may collect such name and email address for responding products feedback, complaints, bug reports, or any other service related questions;
+- Transaction Records. We provide in-app purchase to our users, and such purchase will be made through Apple Store or other third-party service providers. To provide you with the corresponding products, we may receive transaction records from third-party service providers, but you cannot be identified from those transaction records；
+- Technical Information. WE WILL NOT collect technical information about the device(s) and/or browsers (including without limitation your IP address, browsing type, mobile model, operating systems, network type and other browser settings/preference) you may use. However, we may use such pseudonymization technical information provided by Google Analytics (to know how Google Analytics collect and process with your personal data when you use any websites and/or applications have established partnership with Google, please refer to [this link](https://policies.google.com/privacy/google-partners?hl=en-US))；
+- Data Related to The Service. We collect abstracted data related to your use of our applications. This includes your country and your internet service provider. You cannot be identified from those abstracted data；
 
-**I.** Provide you with service notifications via email and within the Services based on your notification selections
+WE DO NOT and will never collect your personal information without notifying you and obtaining your permission.
 
-**II.** Contact you by email, postal mail, or phone regarding services, surveys, research studies, promotions, special events and other subjects that we think may be of interest to you
+**If You Fail to Provide Personal Data**
+If you fail to provide the personal data as requested where we need to collect such personal data by law, under the terms of a contract we have with you, to enter into a contract with you, or to provide you with the services, we may not be able to perform the contract we have or are trying to enter into with you, or to provide you with, in part or in a whole, certain features or the services that you request.
 
-**III.** Help us better understand your interests and needs, and improve the Services
+**How We Use Your Personal Data**
+We will use the personal data we collect about you in accordance with the laws of applicable jurisdictions in the following ways:
 
-**IV.**The information we learn may also provide the basis for market and customer analysis, market research, statistics, business monitoring and business and methodological development for our website.
+- To enter into and to perform our contract with you, or to perform any steps you require from us before entering into a contract with you;
+- To communicate with you, including but not limited to respond to your request for any help with our services or for exercising your rights with respect to your personal data;
+- To provide support and security for our applications or any other services you request;
+- To comply with our legal obligations under relevant laws, regulations, and orders (including subpoenas), injunctions, or any other legal documents issued by the court or competent governmental or regulatory authorities.
+- To pursue our legitimate interests (or those of a third party) as we deem fit and necessary, where your interests and fundamental rights do not override those legitimate interests of ours (or ang third party’s), such as:
+  - to understand, improve, optimize and develop our services;
+  - to conduct research and monitor the quality of our services;
+  - to enforce our Terms Agreement; or
+  - to respond to complaints, hearings, arbitrations, law suits or other governmental or regulatory proceedings.
 
-**V.** Engage analysis, research, and reports regarding use of our Services
+PLEASE NOTE THAT, WE DO NOT sell or share your personal data with any third parties for their direct marketing, but those third parties who provide us with SDKs may collect your personal data directly, please refer to “How We Share Your Personal Data” Section for detailed information.
+WE WILL NOT use in-depth processing of your personal data to obtain your biometric information.
 
-**VI.** Provide, manage, and improve the Services
+**How We Share Your Personal Data**
+We may share your information with our vendors that perform support and other services in connection with our Services as follows:
 
-**VII.** Protect our Services and our users
+- with advertising service providers and advertising partners that enable us to conduct and display advertising on our applications, websites, and third-party sites, applications, or social media platforms;
+- with third parties for collaborative offerings, legal and safety purposes, in connection with the sale or transfer of a business or asset, for use in aggregate or anonymous form, and for other purposes with your permission.
 
-**VIII.** Understand and resolve app crashes and other issues being reported.
+#### Supplemental Terms
 
-**IX.** We acquire information from other trusted sources to update or supplement the information you have provided to us or which are collected automatically.
+Additionally, the following SDK providers may collect and use your personal data:
 
-**X.** We also use this information to improve our platform, prevent or detect fraud or abuses of our Services, for market research purposes and enable third parties to carry out technical, logistical or other functions on our behalf.
+- **Google Analytics**. We use Google Analytics to understand the functionality of our APP, which may collect technical information about the device(s) and/or browsers (including without limitation your IP address, browsing type, mobile model, operating systems, network type and other browser settings/preference) you may use (to know how Google Analytics collect and process with your personal data when you use any websites and/or applications have established partnership with Google Analytics, please refer to [this link](https://policies.google.com/privacy/google-partners));
 
-**XI.**In addition to the above, we process your Personal Information to prevent, detect and investigate potential prohibited or illegal activities, including fraud, and to enforce our terms of use or for any other offer or marketing campaign as the case may be.
+- Firebase
 
-### **4. Sharing with Third-Party**
+  . We use Firebase for statistics service as follows:
 
-**I.** VIMO provides tools through the Service that enable you to import and export information, including User Content, to and from third party services, including through features that allow you to link your account on VIMO with an account on a third party service, such as YouTube or Facebook using multiple keys project keys for their APIs. They are governed by their own [API](https://developers.google.com/youtube/terms/developer-policies#d.-accessing-youtube-api-services) policies By using one of these tools, you agree that VIMO may transfer that information to and from the applicable third party service. Third party services are not under VIMO’s control, and VIMO is not responsible for any third party service’s use of your exported information. The Service may also contain links to third party websites. Linked websites are not under VIMO’s control, and VIMO is not responsible for their content. These third party services are governed by their own Terms of Service and Privacy Policies (Eg: Google [Privacy Policy](https://policies.google.com/privacy)). If you choose to send your exported video to YouTube, you are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms), and [Privacy Policy](https://policies.google.com/privacy) when connecting your VIMO account to your YouTube channel. You may review and revoke access to your channel via [Google's security settings page](https://security.google.com/settings/security/permissions).
+  - Firebase Crashlytics: which may collect and use your Crash Trace data to associate crashes with a project, send email alerts to project members and display them in the Firebase Console, and help Firebase customers debug crashes; uses Crashlytics Installation UUIDs to measure the number of users impacted by a crash and minidump data to process NDK crashes; and the minidump data is stored while the crash session is being processed and then discarded.
+  - Firebase Remote Config: which may collect and use your Firebase installation IDs to select configuration values to return to end-user devices.
 
-We do not share your information with any third parties unless required to do so by any statutory authorities under any law in force. However, we disclose certain information to some third parties as duly displayed on our website.
+To know how Firebase collect and process with your personal data when you use any websites and/or applications have established partnership with Firebase, please refer to [this link](https://firebase.google.com/support/privacy).
 
-In addition, if you access our website through any intermediate website, the cookies of such website may be accessing certain information at the source level over which we have no control.
+**Your Rights and Controls**
+You have rights under applicable data protection law in relation to our use of your personal data, including:
 
-**System Communication & Transactional Emails-** We use Sendgrid, Intercom and Mixpanel as our transactional email providers. The emails we send from the services use such third party infrastructure and we share your name and email address with them to send out the emails
+- Data Access. You have the right to request access to your personal data;
+- Rectification. You have the right to update or amend your personal data if it is inaccurate or incomplete;
+- Objection. You have the right to object to certain uses of your personal data, including direct marketing, processing based on legitimate interests, and processing for purposes of scientific or historical research and statistics, on grounds relating to your particular situation;
+- Erasure. You have the right to request the deletion of your personal data, or restrict its use, in certain circumstances (for example you can request that we erase your personal data where it is no longer necessary for the purpose for which it was collected unless certain exceptions apply);
+- Portability. You have the right to request certain copies of your personal data you have provided to us, to use for your own purposes (often called the right to data portability). PLEASE NOTE THAT we may not able to provide any copy of your personal data since we usually not store any of your personal data;
+- Withdrawing Consent. If we are processing your personal information based on your consent you can withdraw your consent at any time by changing “Settings” on the APP or by sending a communication to us specifying which consent you are withdrawing. PLEASE NOTE THAT the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal; and
+- Lodging Complaints. You have the right to lodge complaints about our data processing activities by filing a complaint with our Data Officer who can be reached by the “Contact Us” section above or lodge a complaint with the relevant supervisory authority or bring a legal action.
 
-### **5. Information that cannot be uploaded**
+If you have any question about these rights or you would like exercise any of them, please contact us via appropriate means as set forth in “Contact Details” Section of this Privacy Policy. Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or your account details. PLEASE NOTE THAT your ability to access or control your personal data will be limited in some cases, as required or permitted by applicable law.
+PLEASE NOTE THAT, if you decide not to provide the personal data we request (such as your contact detail to communicate with you) we may not be able to timely or adequately respond to your needs or proposals with respect to your rights as set forth above.
+You may exercise your data protection rights by “Settings” on the APP as follows:
 
-While using the Services, you shall not host, display, upload, modify, publish, transmit, update or share any information on to the Services that:
+- If you have created an account, you can delete your account information (e.g. subscription information, payment information, contact details) through “Settings”.
+- If you want to access or control personal data collected and processed by us, which is not available by “Settings” on the APP, you can contact the “Data Officer” on “Settings” or contact us via the methods we provide in the “Contact Us” Section hereinafter.
 
-**I.** belongs to another person and to which you do not have any right to;
+**Security of Personal Data**
+The security, integrity, and confidentiality of your personal data are extremely important to us. We will use various technologies and administrative measures to protect your personal data which have been collected and/or stored by us from being lost, being misused, unauthorized accessed or leaking. In addition, all processing by our staff are based on their work assignments and bound by confidentiality obligations.
+PLEASE NOTE THAT, despite our best efforts to provide security protections for your personal data, due to limit of technology as well as various possible malicious means in the internet industry, no security measures are perfect or impenetrable. We will regularly review our security procedures to consider appropriate new technology and methods.
 
-**II.** is grossly harmful, harassing, blasphemous defamatory, obscene, pornographic, paedophilic, libelous, invasive of another’s privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever;
+**Where We Store Your Personal Data**
+Generally, we only store your edited contents on Firebase, and remotely access to such contents via Firebase instead of storing on our server. Also, we may collect and use your personal data to the extent for responding your request, but such data will not be stored in our local device or server. To be specific, if you contact us for feedback, complaints, bug reports, or questions regarding your personal data, we may collect and use your technical information about the device(s) and/or browsers (including without limitation your IP address, browsing type, mobile model, operating systems, network type and other browser settings/preference) you may use, and we will only retain such data and your contact details (such as email address) on Google Sheet, instead of our local device and/or server.
+PLEASE NOTE THAT any of your personal data stored by us will not be transmitted outside of Singapore, and we will take reasonable technological and organizational measures to safeguard your personal data during the entire time of the storage of your personal data.
 
-**III.** harms minors in any way;
+**How Long We Store Your Personal Data**
+Generally, WE DO NOT store your personal data unless we otherwise expressed in this Privacy Policy. In the case we need to retain your personal data for the purposes stated in this Privacy Policy, such retention will be limited to the necessary period which permitted by applicable laws and regulations. For example, when you contact us for feedback, complaints, bug reports, or questions regarding your personal data, we will store such data and your personal contact details (such as email address) to the extent for responding your request, and then immediately delete the same properly, EXCEPT THAT we have other legitimate basis (such as complying with our legal obligations, resolving disputes, and enforcing our agreements) for keeping such data.
 
-**IV.** infringes any patent, trademark, copyright or other proprietary rights;
+**Advertising**
+WE WILL NOT send you any promotional information by email, SMS, physical or telephone. PLEASE NOTE THAT, we use Google AdMob as advertising providers, any advertising on our applications are published and controlled by them instead of us, and therefore, if you click those advertising link to any third party, you shall read their privacy policies carefully, and you shall understand that their privacy policies are not controlled or covered by us.
 
-**V.** violates any law for the time being in force;
+##### California Consumer Privacy Act (“CCPA”)
 
-**VI.** deceives or misleads the addressee about the origin of such messages or communicates any information which is grossly offensive or menacing in nature;
+If you are a California resident, the supplemental terms in this section may apply to you. PLEASE NOTE THAT we may request proof of California residency before responding to requests made under this section.
+Right to Opt-out. WE DO NOT sell your personal data or share, exchange your personal data with any third party. Therefore, WE DO NOT offer an opt-out to the sale of personal data as required by CCPA.
+Right to know. You may submit a verifiable request for us to provide the following information, which we may be able to provide you for no more than twice in a 12-month period with free of charge:
 
-**VII.** impersonates another person;
+- The specific pieces of personal information we have about you;
+- The categories of personal information we collected, sold, or disclosed for a business purpose about you within the last 12 months;
+- The categories of sources from which the personal information was collected;
+- The purposes for which the information was collected or sold; and
+- The categories of third parties to whom the information was sold, disclosed for a business purpose, or otherwise shared.
 
-**VIII.** contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer resource;
+If possible, we will provide this information to you in a readily usable format that allows transmission to another entity.
+Right to Data Portability. You have the right to request certain copies of your personal data you have provided to us, to move data from one company to another (often called the right to data portability). PLEASE NOTE THAT we may not able to provide any copy of your personal data since we usually not store any of your personal data; and
+Right to Delete. You may submit a verifiable request for us to delete the personal information we have collected about you. We may retain personal information necessary to: (i) protect our business, systems, and users from fraudulent activity; (ii) comply with law enforcement requests pursuant to lawful process; or (iii) for scientific or historical research.
+YOU WIll NOT be discriminated (such as price discrimination) for exercising your rights under CCPA.
+Please contact us via appropriate means as set forth in “Contact Details” Section of this Privacy Policy if you would like to exercise your rights under this section.
 
-### **6.** **Your Controls and Choices**
+##### General Data Protection Regulation (“GDPR”)
 
-You can control your choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
+If you are a resident in the EEA, Switzerland or the UK (the “European Region”), supplemental terms in this section may apply to you:
 
-**I.** You may correct, update and delete your account;
+**International data transfers**
+If you normally reside in the European Region, the personal data that we collect from you will be further transferred to, and stored at, a destination outside of the European Region (for instance, to our service providers and partners). These transfers are made pursuant to appropriate safeguards, such as standard data protection clauses adopted by the European Commission.
 
-**II.** You may change your choices for subscriptions, product emails and alerts;
+**You have the following rights:**
 
-**III.** You may request access to the personal information we hold about you and that we shall amend or delete it and we shall request third parties with whom we have shared the information do the same. Once you place a request to delete the personal information, we shall take all reasonable steps taking into account available technology and the means available to us, including technical measures to erase the personal information.
+- The right to request free of charge (i) confirmation of whether we process your personal data and (ii) access to a copy of the personal data retained;
+- The right to request proper rectification or removal of your personal data or restriction of the processing of your personal data;
+- Where processing of your personal data is either based on your consent or necessary for the performance of a contract with you and processing is carried out by automated means, the right to receive the personal data concerning you in a structured, commonly used and machine-readable format or to have your personal data transmitted directly to another company, where technically feasible (data portability);
+- Where the processing of your personal data is based on your consent, the right to withdraw your consent at any time (withdrawal will not impact the lawfulness of data processing activities that have taken place before such withdrawal);
+- The right not to be subject to any automatic individual decisions, including profiling, which produces legal effects on you or similarly significantly affects you unless we have your consent, this is authorised by Union or Member State law or this is necessary for the performance of a contract;
+- The right to object to processing if we are processing your personal data on the basis of our legitimate interest unless we can demonstrate compelling legitimate grounds which may override your right. If you object to such processing, we ask you to state the grounds of your objection in order for us to examine the processing of your personal data and to balance our legitimate interest in processing and your objection to this processing;
+- The right to object to processing your personal data for direct marketing purposes; and
+- The right to lodge complaints before the competent data protection regulator.
 
-**IV.** You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services;
+Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or your account details. Please send an e-mail to us if you would like to exercise any of your rights .
 
-**V.** You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers;
+**Contact Us**
+If you have any questions about this Privacy Policy or our privacy practices, or if you wish to exercise your rights in respect of your personal data, please contact us in the following ways:
+Email address: **[abc@aiwaga.com](mailto:abc@aiwaga.com)**
 
-Further, you may exercise your right to data portability, which means that you have the right to receive the Personal Information processed about you in a structured, commonly used and machine-readable i.e. HTML format. Please note that some of the rights above only may be exercised in certain situations, e.g. the right to data portability, which only applies when the processing is carried out on the basis of an agreement or a consent and if the processing is carried out by automated means. In case you have any questions regarding how we process your Personal Information, want to exercise any of your rights or want to know more about the rights, you may contact us as indicated below.
-
-E-mail address: [abc@aiwaga.com](mailto:abc@aiwaga.com)
-
-You agree to receive marketing information from us. If you do not want us to process your Personal Information for direct marketing, you can give written notice thereof to us.
-
-### **7.** **How long is the data kept?**
-
-We will keep Personal Information regarding you only as long as it is necessary, having regard to the purpose of the processing. This means that Personal Information collected and processed will be stored for as long as you have an account and required by law.
-
-We will also, during the same period, keep your account information, we may store data for longer if required by law or if required in our legal interests, for example if there are ongoing legal proceedings.
-
-### **8.** **Data Security and Integrity**
-
-The security, integrity and confidentiality of your Personal Information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to be provided.
-
-However, we may be required to share the aforesaid Personal Information with government authorities and agencies for the purposes of verification of identity or for prevention, detection, investigation including cyber incidents, prosecution and punishment of offences. You agree and consent for us to disclose your information, if so required under the applicable law.
-
-All interactions with our Services use the Transport Layer Security/Secure Sockets Layer (TLS/SSL) protocol.
-
-All data is encrypted via SSL/TLS when transmitted from our servers to your browser. The database backups are also encrypted. Except for your password, data isn’t encrypted while it’s live in our database (since it needs to be ready to send to you when you need it).
-
-All data that we store in our log files or send to third party software that we use to analyze errors with the Software is anonymized and no personal identifiable information is sent to them.
-
-### **9.** **Data Transfers, Storage and Processing Globally**
-
-We have plans to operate globally and may transfer your Personal Information and Sensitive Personal Information to third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. By accepting this Privacy Policy, you hereby explicitly provide your consent and grant us the right to transfer your Personal Information and Sensitive Personal Information to third parties.
-
-### **10.** **Changes to this Privacy Policy**
-
-From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We shall provide notice to you through the contact details provided to us by you.
-
-### **11.** **Contact in case of grievances**
-
- If you have any concerns about privacy please contact us with a thorough description and we will try to resolve the issue for you at the earliest.
-
-**Contact Information:**
-
-**Email:** [abc@aiwaga.com](mailto:abc@aiwaga.com)
-
-### **12.** **Comments and Questions**
-
-If you have a comment or question about this privacy policy, please contact us at [abc@aiwaga.com](mailto:abc@aiwaga.com). Our Services may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our Services and to read the privacy policies of other sites that may collect your personal information.
-
-### **13.** **What are cookies?**
-
-Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. If you turn cookies off, you won’t have access to many features that make your guest experience more efficient and some of our services will not function properly.
-
-**How do we use cookies?**
-
-We collect information about your activity on our Services using tracking technologies such as cookies, flash cookies and web beacons. We use two types: persistent cookies and session cookies. A persistent cookie helps us recognize you as an existing user, so it’s easier to return to the Services or interact with our Services without signing in again. After you sign in, a persistent cookie stays in your browser and will be read by us when you return to one of our products. Session cookies only last for as long as the session (usually the current visit to a website or a browser session). This tracking data is used for many purposes including, for example, to:
-
-- **Authentication:**If you’re signed in to the Services, cookies help us show you the right information and personalize your experience.
-- **Security:** We use cookies to enable and support our security features, and to help us detect malicious activity and violations of our Terms of Use.
-- **Preferences, Features and Services:** Cookies can tell us what your communications and product preferences are.
-- **Performance, Analytics and Research:** Cookies help us learn how well our site and plugins perform in different locations. We also use cookies to understand, improve, and research products, features, and services, including when you access our Services from other websites, applications, or devices such as your work computer or your mobile device.
-
-**Controlling cookies**
-
-While you may block and/or limit our access to cookies, if you limit the ability of websites to set cookies, if may affect your overall user experience, since it will no longer be personalized to you. It may also stop you from saving customized settings like login information.
-
-**Definitions:-**
-
-**Anonymous Information**: Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest.
-
-**IP address**: An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our products hosting our Services, and we may combine IP addresses with personal information.
-
-**Notices**: Notices will be sent by email to you at the last email address you provided us, by posting notice of such changes in our Services, or by other means, consistent with applicable law.
-
-**Personal information**: Personal information means and includes information that identifies (whether directly or indirectly) and Sensitive Personal Information of a person by reference to an identifier such as a name, an identification number, location data including postal address or an online identifier to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of such person. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
-
-**Public Forums**: Our Services may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party.
-
-**Sensitive Personal Information**: Sensitive Personal Information shall have the meaning ascribed to it under the applicable law and is presently defined to mean such personal information which consists of information relating to
-
-- passwords;
-- financial information such as bank accounts or credit card or debit card or other payment instrument details;
-- physical, physiological and mental health conditions;
-- sexual orientation; (v) medical records and history;
-- Biometric information;
-- any detail relating to the above clauses as provided to body corporate for providing service
